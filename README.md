@@ -1,4 +1,4 @@
-# VEX Robotics
+# VEX Shtuff
 
 Welcome! This repository is where I keep stuff related to VEX Robotics projects. It's a mix of CAD models, design ideas, documentation, code, and random notes that I make while building and testing robots.
 
